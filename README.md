@@ -1,5 +1,5 @@
 # 💫 About Me:
-                                             👋 Hi, I'm Poorvika M<br><br>🎓 Engineering student interested in software development.<br>💻 I work with Java, C programming, HTML, JS, and MySQL.<br>📚 Always learning new technologies and improving my coding skills.<br>🌱 Interested in full stack development and problem solving.
+👋 Hi, I'm Poorvika M<br>🎓 Engineering student interested in software development.<br>💻 I work with Java, C programming, HTML, JS, and MySQL.<br>📚 Always learning new technologies and improving my coding skills.<br>🌱 Interested in full stack development and problem solving.
 
 
 ## 🌐 Socials:
